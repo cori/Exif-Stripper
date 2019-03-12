@@ -1,7 +1,7 @@
 {
   "name": "exif-stripper",
   "version": "0.0.3",
-  "main": "index.js",
+  "main": "exif-stripper.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
